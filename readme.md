@@ -22,6 +22,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [English](e/English)
 * [Finnish](f/Finnish)
 * [French](f/French)
+* [Georgian](g/Georgian)
 * [German](g/German)
 * [Greek](g/Greek)
 * [Gujarati](g/Gujarati)
