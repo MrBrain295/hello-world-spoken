@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (52 total)
+## Languages (53 total)
 
 * [Afrikaans](a/Afrikaans)
 * [Arabic](a/Arabic)
